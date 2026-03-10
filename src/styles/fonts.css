@@ -1,4 +1,20 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap');
-/* 📝 Stack Sans Notch - Police pour la page About */
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;500;600;700&display=swap');
+
+
+/* Dahlia */
+@font-face {
+    font-family: 'Dahlia';
+    src: url('./dahlia-med...') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  /* Stack Sans Notch */
+  @font-face {
+    font-family: 'Stack Sans Notch';
+    src: url('./StackSans...') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }

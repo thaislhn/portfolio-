@@ -242,9 +242,9 @@ function TurquoiseFooter({ projectUrl }: { projectUrl?: string }) {
   return (
     <div
       className="w-full py-10 flex items-center justify-center relative"
-      style={{ backgroundColor: '#00FF11' }}
+      style={{ backgroundColor: 'white' }}
     >
-      <p className="text-white" style={{ fontSize: 'clamp(1rem, 2.1vw, 1.1rem)' }}>
+      <p className="text-black" style={{ fontSize: 'clamp(1rem, 2.1vw, 1.1rem)' }}>
         © 2026 Developed by Thaïs L'Hocine
       </p>
       {projectUrl && (
